@@ -1,3 +1,7 @@
+#Obeservação: A tela de login ja esta com o usuario e senha então somente clicar no entrar nao foi adicionado uma funcao pra gerar um login.
+
+
+
 # Payt - Teste Backend
 
 O objetivo do teste é avaliar seu conhecimento em Laravel e respeito às boas práticas de programação e organização de
